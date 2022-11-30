@@ -42,10 +42,12 @@
   </url><url>
     <loc>https://klming.com/contact/</loc>
   </url><url>
+    <loc>https://klming.com/policy/</loc>
+  </url><url>
     <loc>https://klming.com/tags/</loc>
   </url><url>
-    <loc>https://klming.com/privacy/</loc>
+    <loc>https://klming.com/policy/privacy/</loc>
   </url><url>
-    <loc>https://klming.com/terms-of-service/</loc>
+    <loc>https://klming.com/policy/terms-of-service/</loc>
   </url>
 </urlset>
