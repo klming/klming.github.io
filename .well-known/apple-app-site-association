@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "ECP53VDPF5.com.klming",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "ECP53VDPF5.com.klming.dev",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
