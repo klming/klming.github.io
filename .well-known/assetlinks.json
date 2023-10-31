@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.klming",
+      "sha256_cert_fingerprints": [
+        "B3:CF:E9:F7:F1:5E:8E:5F:83:FF:02:E1:C0:FF:8D:D9:78:E7:B3:1B:0F:AF:0E:96:9C:B7:48:F9:AD:49:E1:09"
+      ]
+    }
+  }
+]
